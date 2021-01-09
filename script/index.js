@@ -1,0 +1,1 @@
+alert('Hello Master Hayk')
